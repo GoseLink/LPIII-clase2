@@ -2,7 +2,7 @@ package PACKAGE_NAME.package1;
 
 public class Singleton {
 
-    private
+
 
     private static Singleton instance;
 
