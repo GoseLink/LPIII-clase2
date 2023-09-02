@@ -23,6 +23,8 @@ public class Empleado {
     }
     public static class EmpleadoBuilder {
 
+        private String nombre;
+        private long id;
         public EmpleadoBuilder(){
         }
         public EmpleadoBuilder nombre(String nombre){

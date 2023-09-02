@@ -4,9 +4,9 @@ import PACKAGE_NAME.Buider.Empleado;
 
 public class Main {
 
-    public static void main(Strting[] args){
-        Empleado empleado = Empleado.builder().id(123).nombre("Jorge").build();
-        System.out.println(empleado);
-
-    }
+//    public static void main(Strting[] args){
+//        Empleado empleado = Empleado.builder().id(123).nombre("Jorge").build();
+//        System.out.println(empleado);
+//
+//    }
 }
