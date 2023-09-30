@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faa60236-4640-45c1-b622-ebaf0664b289" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LPIII-clase2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/Buider/Empleado$EmpleadoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/Buider/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/LPIII-clase2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/package1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/package1/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/src/FactoryMethode/CreadorPizzaHawaiana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/src/FactoryMethode/CrearPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/src/FactoryMethode/CrearPizzaSalami.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/src/FactoryMethode/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/src/FactoryMethode/PizzaHawaiana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/src/FactoryMethode/PizzaSalami.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/src/Prototype/Estudiante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/Accion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/AccionActualizar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/AccionBuscar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/AccionCrear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/AccionEliminar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/AccionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/AccionLeer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/PACKAGE_NAME/strategy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LPIII-clase2/package1/Prueba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buider/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethode/CreadorPizzaHawaiana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethode/CrearPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethode/CrearPizzaSalami.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethode/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethode/PizzaHawaiana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethode/PizzaSalami.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prototype/Estudiante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package1/Prueba.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package1/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Accion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/AccionActualizar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/AccionBuscar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/AccionCrear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/AccionEliminar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/AccionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/AccionLeer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2W7VN8P3OmcEXCT7U0zbeVIWZqX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa60236-4640-45c1-b622-ebaf0664b289" name="Changes" comment="" />
+      <created>1696083564733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696083564733</updated>
+    </task>
+    <servers />
+  </component>
+</project>
