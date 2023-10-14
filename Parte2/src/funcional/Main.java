@@ -13,6 +13,6 @@ public class Main {
         };
         System.out.println(miInterfazFuncional.aplicar("100"));
 
-        Function<String, Integer> function1 = (String stringPa) 
+        //Function<String, Integer> function1 = (String stringPa)
     }
 }
